@@ -1,0 +1,38 @@
+{
+  "name": "Clon de la Alcaldesa Perfecta (laboratorio de Add4u)",
+  "short_name": "Alcaldesa Perfecta",
+  "description": "Copia de lectura de lo que el Ayuntamiento de Galapagar tiene publicado. Laboratorio de Add4u: no es una web del Ayuntamiento.",
+  "lang": "es",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#5556E7",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "apple-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/alcaldesa-perfecta-galapagar/images/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/alcaldesa-perfecta-galapagar/images/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
